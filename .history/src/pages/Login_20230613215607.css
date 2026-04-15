@@ -1,0 +1,22 @@
+.wrap-login {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-page {
+  background-size: 90% 65%;
+  width: 70%;
+  text-align: center;
+}
+
+.form-login {
+  border: 1px rgb(185, 185, 185) solid;
+  width: 50%;
+  /* margin-left: 25%; */
+  margin-top: 100px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgb(133, 133, 133);
+  height: fit-content;
+}

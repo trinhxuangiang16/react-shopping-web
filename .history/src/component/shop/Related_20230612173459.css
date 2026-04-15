@@ -1,0 +1,14 @@
+.display-relate > div {
+  width: 150px;
+}
+
+.related-img {
+  width: 250px !important;
+}
+
+.name-relate {
+  font-family: "Alumni Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  opacity: 0.6;
+}

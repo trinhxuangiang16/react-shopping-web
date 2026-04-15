@@ -1,0 +1,6 @@
+.fa-brands {
+  position: absolute;
+  bottom: 0;
+  color: red;
+  z-index: 100;
+}

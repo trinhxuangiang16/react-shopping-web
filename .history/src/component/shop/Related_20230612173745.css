@@ -1,0 +1,20 @@
+.display-relate > div {
+  width: 250px;
+  text-align: center;
+}
+
+.related-img {
+  width: 250px !important;
+}
+
+.price-relate {
+  font-family: "Alumni Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  opacity: 0.6;
+}
+
+.name-relate {
+  opacity: 0.9;
+  font-style: italic;
+}

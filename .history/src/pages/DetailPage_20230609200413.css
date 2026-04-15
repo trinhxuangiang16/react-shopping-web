@@ -1,0 +1,33 @@
+.wrap-top,
+.wrap-des,
+.wrap-relate {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-top,
+.detail-des,
+.detail-relate {
+  width: 70%;
+}
+
+.small-img > img {
+  width: 160%;
+  max-width: 85px;
+  height: 21%;
+  max-height: 85px;
+}
+
+.big-img > img {
+  height: 80%;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.detail-category {
+  display: flex;
+}
+
+.detail-category > p {
+  margin-right: 10px;
+}

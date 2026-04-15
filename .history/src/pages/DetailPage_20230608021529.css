@@ -1,0 +1,9 @@
+.wrap-detail {
+  display: flex;
+  justify-content: center;
+}
+
+.small-img > img {
+  width: 80px;
+  height: 80px;
+}

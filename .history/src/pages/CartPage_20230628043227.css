@@ -1,0 +1,57 @@
+.wrap-cart {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.topic-cart {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 145px;
+  padding-top: 45px;
+}
+
+.topic-cart > h1 {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.topic-cart > p {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.wrap-invoice {
+  font-family: "Alumni Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+}
+.wrap-table {
+  width: 52%;
+}
+
+.tr-title {
+  background-color: rgb(245, 245, 245);
+  height: 3rem;
+  font-weight: 700;
+  font-size: 23px;
+}
+.td-img {
+  width: 85px;
+  height: 100px;
+}
+.cart-total {
+  width: 15%;
+}

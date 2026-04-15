@@ -1,0 +1,10 @@
+.side-shop {
+  width: 15%;
+  background-color: rgb(189, 162, 113);
+}
+
+.side-shop > ul > li {
+  list-style-type: none;
+  justify-content: left;
+  margin-left: -14px;
+}

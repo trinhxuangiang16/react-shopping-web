@@ -1,0 +1,14 @@
+.wrap-cart {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.topic-cart {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 145px;
+  padding-top: 45px;
+}

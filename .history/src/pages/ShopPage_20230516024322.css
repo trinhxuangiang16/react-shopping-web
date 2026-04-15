@@ -1,0 +1,8 @@
+.wrap-shop {
+  display: flex;
+  justify-content: center;
+}
+
+.topic-shop {
+  width: 70%;
+}

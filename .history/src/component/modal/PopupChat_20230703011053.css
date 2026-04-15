@@ -1,0 +1,46 @@
+.wrap-mess {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  z-index: 100;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 20px;
+  right: 10px;
+  z-index: 10;
+  position: fixed;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.fa-brands {
+  color: white;
+  font-size: 30px;
+}
+
+.wrap-mess > button {
+  border-style: none;
+  background-color: transparent;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 4px;
+  margin-left: -0.5px;
+}
+
+.box-chat {
+  width: 20%;
+  height: 400px;
+  border: 1px grey solid;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(133, 133, 133);
+}
+
+.wrap-chat {
+  z-index: 100;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 30%;
+  right: 15%;
+  z-index: 10;
+  position: fixed;
+}

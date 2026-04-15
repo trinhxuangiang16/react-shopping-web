@@ -1,0 +1,10 @@
+.wrap-login {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-page {
+  background-size: 90% 80%;
+  width: 70%;
+}

@@ -1,0 +1,9 @@
+.side-shop {
+  width: 15%;
+  background-color: rgb(189, 162, 113);
+}
+
+.side-shop > ul > li {
+  text-decoration: none;
+  font-style: normal;
+}

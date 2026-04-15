@@ -1,0 +1,83 @@
+.wrap-login {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-page {
+  background-size: 90% 65%;
+  width: 70%;
+}
+
+.form-login {
+  border: 1px rgb(185, 185, 185) solid;
+  width: 50%;
+  /* margin-left: 25%; */
+  margin-top: 100px;
+  background-color: rgb(248, 248, 248);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(133, 133, 133);
+  height: fit-content;
+}
+.form-login > h2 {
+  text-align: center;
+  margin-top: 55px;
+  margin-bottom: 50px;
+}
+.wrap-row {
+  border: 1px rgb(189, 189, 189) solid;
+  width: 68%;
+  margin-left: 16%;
+  height: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 0;
+}
+
+.wrap-row > label {
+  margin-left: 10px;
+  opacity: 0.7;
+  font-weight: 500;
+  height: 2rem;
+}
+
+.full-name,
+.email,
+.password {
+  margin-bottom: -1px;
+}
+
+.full-name > input {
+  margin-left: 10px;
+  width: 60%;
+  outline-color: rgb(153, 153, 153);
+  border-style: none;
+  background-color: rgb(248, 248, 248);
+  height: 2rem;
+}
+
+.email > input {
+  margin-left: 45px;
+  width: 60%;
+  outline-color: rgb(153, 153, 153);
+  border-style: none;
+  background-color: rgb(248, 248, 248);
+  height: 2rem;
+}
+
+.password > input {
+  margin-left: 15px;
+  width: 60%;
+  outline-color: rgb(153, 153, 153);
+  border-style: none;
+  background-color: rgb(248, 248, 248);
+  height: 2rem;
+}
+
+.phone > input {
+  margin-left: 37px;
+  width: 60%;
+  outline-color: rgb(153, 153, 153);
+  border-style: none;
+  background-color: rgb(248, 248, 248);
+  height: 2rem;
+}

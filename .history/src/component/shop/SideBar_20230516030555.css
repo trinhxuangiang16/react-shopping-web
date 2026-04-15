@@ -1,0 +1,20 @@
+.side-shop {
+  width: 15%;
+  background-color: rgb(245, 228, 196);
+  padding-top: 25px;
+  font-family: "Alumni Sans", sans-serif;
+}
+
+.side-shop > ul > li {
+  list-style-type: none;
+  justify-content: left;
+  margin-left: -15px;
+}
+
+.brand {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+.type-product {
+  font-size: 19px;
+}

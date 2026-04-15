@@ -1,0 +1,19 @@
+.wrap-chat {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  z-index: 100;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  right: 0;
+  z-index: 100;
+  position: fixed;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.fa-brands {
+  color: white;
+  font-size: 30px;
+}

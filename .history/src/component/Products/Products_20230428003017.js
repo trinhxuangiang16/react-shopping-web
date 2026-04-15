@@ -1,0 +1,17 @@
+const Products = ({ product }) => {
+  return (
+    <div>
+      <ul>
+        {product.map((pro) => (
+          <li key={pro.id}>
+            <img src={pro.img} alt="product" />
+            <h6>{pro.name}</h6>
+            <p>{pro.price.toLocaleString()}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+};
+
+export default Products;

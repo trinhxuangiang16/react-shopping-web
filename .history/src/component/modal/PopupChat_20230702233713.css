@@ -1,0 +1,15 @@
+.wrap-chat {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+}
+
+.fa-brands {
+  display: flex;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
+  position: fixed;
+  /* margin: 0px; */
+  color: white;
+}

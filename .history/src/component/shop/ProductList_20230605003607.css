@@ -1,0 +1,16 @@
+.product-detail > img,
+.product-detail > h4,
+.product-detail > p {
+  width: 90%;
+  text-align: center;
+}
+
+.product-detail {
+  width: 300px;
+  max-height: 320px;
+  font-size: 20px;
+}
+
+.product-detail > p {
+  font-size: 15px;
+}

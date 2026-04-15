@@ -1,0 +1,55 @@
+.wrap-checkout {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.topic-checkout {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 145px;
+  padding-top: 45px;
+  font-family: "Alumni Sans", sans-serif;
+}
+
+.topic-checkout > h1 {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+
+  font-weight: 900;
+  font-size: 60px;
+  opacity: 0.9;
+}
+.btn-back {
+  width: 20%;
+}
+
+.btn-back > button {
+  height: 80px;
+  width: 25%;
+  text-align: center;
+  font-weight: 600;
+  font-size: 20px;
+  border-style: none;
+  background-color: transparent;
+}
+
+.btn-active {
+  color: rgb(141, 141, 141);
+}
+
+.wrap-checkout {
+  font-family: "Alumni Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+  gap: 1.5%;
+  margin-bottom: 50px;
+  opacity: 0.85;
+}
+
+.wrap-form {
+  width: 52%;
+}

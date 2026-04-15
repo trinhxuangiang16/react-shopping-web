@@ -1,0 +1,17 @@
+.wrap-more {
+  justify-content: center;
+  display: flex;
+}
+
+.shipping {
+  width: 70%;
+  background-color: rgb(238, 240, 240);
+}
+
+.email {
+  width: 70%;
+}
+
+.bg h5 {
+  font-style: italic;
+}

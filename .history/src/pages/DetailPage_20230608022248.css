@@ -1,0 +1,15 @@
+.wrap-top,
+.wrap-des {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-top,
+.detail-des {
+  width: 70%;
+}
+
+.small-img > img {
+  width: 80px;
+  height: 80px;
+}

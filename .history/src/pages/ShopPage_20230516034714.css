@@ -1,0 +1,17 @@
+.wrap-shop {
+  display: flex;
+  justify-content: center;
+  height: max-content;
+}
+
+.topic-shop {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.topic-shop > h1 {
+  height: 100px;
+  text-align: center;
+  background-color: aliceblue;
+}

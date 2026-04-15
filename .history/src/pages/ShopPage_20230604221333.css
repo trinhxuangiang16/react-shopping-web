@@ -1,0 +1,68 @@
+.shop-page {
+  margin-bottom: 400px;
+}
+
+.wrap-shop {
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+}
+
+.topic-shop {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 145px;
+  padding-top: 45px;
+}
+
+.topic-shop > h1 {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.topic-shop > p {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.list-shop {
+  background-color: rgb(204, 204, 204);
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-change {
+  position: absolute;
+  right: 16%;
+  top: 530px;
+}
+
+.wrap-produst-list {
+  margin-top: 60px;
+  margin-bottom: 150px;
+  width: 53%;
+  height: 200px;
+  font-size: 20px;
+}
+
+.wrap-all-product {
+  width: 53%;
+}
+
+.grid-container {
+  display: grid;
+  /* grid-template-columns: auto auto auto auto; */
+  gap: 10px;
+  width: 100%;
+}

@@ -1,0 +1,78 @@
+.wrap-mess {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  z-index: 100;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 20px;
+  right: 10px;
+  z-index: 10;
+  position: fixed;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.fa-brands {
+  color: white;
+  font-size: 30px;
+}
+
+.wrap-mess > button {
+  border-style: none;
+  background-color: transparent;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 4px;
+  margin-left: -0.5px;
+}
+
+/* .box-chat {
+ 
+} */
+
+.wrap-chat {
+  z-index: 100;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 30%;
+  right: 10%;
+  z-index: 100;
+  position: fixed;
+  width: 20%;
+  height: 400px;
+  border-radius: 17px;
+  box-shadow: 3px 3px 3px 3px rgb(207, 207, 207);
+  background-color: white;
+}
+
+.support-title {
+  border-radius: 17px 17px 0px 0px;
+  border-bottom: 1px rgb(235, 235, 235) solid;
+  /* display: flex; */
+  height: 3.5rem;
+  width: 100%;
+  padding: 1rem 10px 1rem 15px;
+}
+
+.support-title > p {
+  font-weight: bolder;
+  font-size: 18px;
+  letter-spacing: -0.5px;
+  height: 1.5rem;
+  opacity: 0.85;
+  width: 50%;
+  float: left;
+}
+
+.support-title > button {
+  border-style: none;
+  background-color: rgb(223, 223, 223);
+  font-size: 13px;
+  height: 1.5rem;
+  font-style: italic;
+  opacity: 0.7;
+  float: right !important;
+  width: 30%;
+  color: rgb(0, 0, 0) k;
+}

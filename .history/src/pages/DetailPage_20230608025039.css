@@ -1,0 +1,19 @@
+.wrap-top,
+.wrap-des,
+.wrap-relate {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-top,
+.detail-des,
+.detail-relate {
+  width: 70%;
+}
+
+.small-img > img {
+  width: 120%;
+  max-width: 115px;
+  height: 18%;
+  max-height: 115px;
+}

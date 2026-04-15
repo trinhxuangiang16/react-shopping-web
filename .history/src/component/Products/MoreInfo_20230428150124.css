@@ -1,0 +1,12 @@
+.wrap-more {
+  justify-content: center;
+  display: flex;
+}
+
+.shipping {
+  width: 70%;
+}
+
+.email {
+  width: 70%;
+}

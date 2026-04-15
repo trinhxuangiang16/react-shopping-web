@@ -1,0 +1,37 @@
+.wrap-more {
+  justify-content: center;
+  display: flex;
+}
+
+.shipping {
+  width: 70%;
+  background-color: rgb(238, 240, 240);
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.email {
+  width: 70%;
+}
+
+.bg h5 {
+  font-style: italic;
+}
+
+.input-email input {
+  width: 80%;
+  height: 4rem;
+  outline-color: none;
+  border-color: rgb(126, 124, 124);
+
+  border-style: ridge;
+}
+
+.input-email button {
+  width: 20%;
+  height: 4rem;
+  outline-color: transparent;
+  border-style: none;
+  background-color: rgb(41, 39, 38);
+  color: white;
+}

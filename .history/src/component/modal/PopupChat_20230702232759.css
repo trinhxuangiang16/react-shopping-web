@@ -1,0 +1,7 @@
+.fa-brands {
+  position: -webkit-sticky;
+  position: sticky;
+
+  color: red;
+  z-index: 100;
+}

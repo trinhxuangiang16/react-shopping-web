@@ -1,0 +1,108 @@
+.wrap-top,
+.wrap-des,
+.wrap-relate {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-top,
+.detail-des,
+.detail-relate {
+  width: 70%;
+}
+
+.small-img > img {
+  width: 160%;
+  max-width: 85px;
+  height: 21%;
+  max-height: 85px;
+}
+
+.big-img > img {
+  height: 80%;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.detail-category {
+  display: flex;
+}
+
+.category-bold {
+  margin-right: 5px;
+  font-weight: 700;
+}
+
+.related-img {
+  width: 100%;
+}
+.detail-relate > div {
+  width: 19%;
+}
+
+.detail-des > p {
+  height: fit-content;
+
+  word-break: break-word;
+
+  white-space: pre-line;
+  line-height: 1.4;
+  width: 55%;
+  font-family: "Alumni Sans", sans-serif;
+  font-size: 18px;
+}
+
+.select {
+  display: flex;
+  width: 5%;
+}
+
+.quantity {
+  display: flex;
+  border: 1px rgb(41, 39, 38) solid;
+  text-align: center;
+  height: 2.1rem;
+  width: fit-content;
+  max-width: 75%;
+  justify-content: space-between;
+}
+
+.quantity > input {
+  width: 23%;
+  height: 2rem;
+  outline-style: none;
+  outline-color: transparent;
+  border-style: none;
+}
+::placeholder {
+  color: rgb(165, 165, 165);
+  font-size: 14px;
+}
+.select > button {
+  height: 2rem;
+  outline-style: none;
+  border-color: transparent;
+  background-color: white;
+  width: 5px;
+}
+.select > p {
+  font-family: Arial !important;
+  width: 20px;
+  padding: 8px 8px 8px 12px;
+
+  text-align: center;
+}
+.add-cart {
+  font-style: italic;
+  font-family: "Alumni Sans", sans-serif;
+  color: white;
+  background-color: rgb(41, 39, 38);
+  box-shadow: none;
+  outline-color: transparent;
+  border-style: none;
+  height: 2rem;
+  width: 6rem;
+  font-size: 22px;
+  opacity: 0.9;
+  margin-left: 18px;
+}

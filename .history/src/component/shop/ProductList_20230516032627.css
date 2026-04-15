@@ -1,0 +1,6 @@
+.list-shop {
+  width: 53%;
+  background-color: rgb(204, 204, 204);
+  display: flex;
+  justify-content: space-between;
+}

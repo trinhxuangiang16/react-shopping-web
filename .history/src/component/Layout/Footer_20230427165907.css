@@ -1,0 +1,21 @@
+.footer {
+  color: rgb(182, 180, 180);
+  background-color: black;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  height: 320px;
+  text-align: left;
+}
+
+.row {
+  padding-top: 70px;
+}
+
+.row .bg p {
+  font-size: 13px;
+}
+
+.row .bg h6 {
+  margin-bottom: 20px;
+}

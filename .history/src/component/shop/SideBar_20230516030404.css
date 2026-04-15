@@ -1,0 +1,15 @@
+.side-shop {
+  width: 15%;
+  background-color: rgb(245, 228, 196);
+  padding-top: 25px;
+}
+
+.side-shop > ul > li {
+  list-style-type: none;
+  justify-content: left;
+  margin-left: -15px;
+}
+
+.brand {
+  color: aliceblue;
+}

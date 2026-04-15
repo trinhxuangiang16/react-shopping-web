@@ -1,0 +1,32 @@
+.wrap-shop {
+  display: flex;
+  justify-content: center;
+  height: max-content;
+}
+
+.topic-shop {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 140px;
+  padding-top: 50px;
+}
+
+.topic-shop > h1 {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 900;
+}
+
+.topic-shop > p {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 600;
+  font-size: 70px;
+}

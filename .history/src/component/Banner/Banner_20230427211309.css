@@ -1,0 +1,20 @@
+.banner {
+  background-size: 100% 100%;
+  width: 100%;
+  height: 500px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: rgb(73, 70, 69);
+  padding-top: 150px;
+  padding-left: 60px;
+}
+.banner button {
+  font-style: italic;
+  font-family: sans-serif;
+  color: white;
+  background-color: rgb(73, 70, 69);
+  box-shadow: none;
+  outline-color: transparent;
+  border-style: none;
+  height: 2rem;
+}

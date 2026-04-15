@@ -1,0 +1,19 @@
+.wrap-shop {
+  display: flex;
+  justify-content: center;
+  height: max-content;
+}
+
+.topic-shop {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+
+  background-color: rgb(241, 241, 241);
+}
+
+.topic-shop > h1 {
+  height: 100px;
+  width: 20%;
+  text-align: center;
+}

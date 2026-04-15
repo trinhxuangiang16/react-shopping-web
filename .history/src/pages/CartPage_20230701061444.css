@@ -1,0 +1,114 @@
+.wrap-cart {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.topic-cart {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 241, 241);
+  height: 145px;
+  padding-top: 45px;
+}
+
+.topic-cart > h1 {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.topic-cart > p {
+  height: 80px;
+  width: 15%;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.title-shoping-cart {
+  justify-content: center;
+  display: flex;
+  margin: 70px 0px 30px 0px;
+}
+.title-shoping-cart > h2 {
+  width: 70%;
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+}
+.wrap-invoice {
+  font-family: "Alumni Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+  gap: 1.5%;
+}
+.wrap-table {
+  width: 52%;
+  text-align: center;
+}
+
+.tr-title {
+  background-color: rgb(245, 245, 245);
+  height: 3.5rem;
+  font-weight: 700;
+  font-size: 22px;
+}
+.tr-map {
+  font-size: 25px;
+  font-weight: 700;
+}
+.td-img {
+  width: 85px;
+  height: 100px;
+}
+.table-opacity {
+  opacity: 0.7;
+}
+
+.td-button > button {
+  border-style: none;
+  width: 2rem;
+}
+.td-button {
+  width: 7rem;
+}
+.td-button > span {
+  width: 2.5rem;
+  padding: 0;
+}
+.cart-total {
+  width: 16.5%;
+  height: 300px;
+  background-color: rgb(245, 245, 245);
+  padding: 20px 30px 20px 30px;
+}
+
+.cart-total > div > h3 {
+  font-weight: 700;
+  font-size: 34px;
+}
+
+.subtotal {
+  border-bottom: 1px rgb(212, 212, 212) solid;
+  padding-bottom: 10px;
+}
+.sub-title {
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.sub-price {
+  float: right;
+  margin-top: 5px;
+}
+
+.total-title {
+  font-size: 21px;
+  font-weight: 600;
+}
