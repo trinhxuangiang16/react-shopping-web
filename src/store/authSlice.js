@@ -1,6 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-// Hardcode admin account
 const ADMIN_ACCOUNT = {
   fullName: "Admin User",
   email: "admin@boutique.com",
@@ -25,7 +24,6 @@ const authSlice = createSlice({
     registerSuccess: (state) => {
       state.isLoading = false;
       state.error = null;
-      // Fake registration - just show success message
     },
     registerFail: (state, action) => {
       state.isLoading = false;
@@ -51,14 +49,21 @@ const authSlice = createSlice({
       localStorage.removeItem("userCurrent");
       localStorage.removeItem("token");
     },
+    updateUserProfile: (state, action) => {
+      if (state.user) {
+        state.user = {
+          ...state.user,
+          ...action.payload,
+        };
+        localStorage.setItem("userCurrent", JSON.stringify(state.user));
+      }
+    },
   },
 });
 
-// Hàm giả lập async login
 export const login = (email, password) => (dispatch) => {
   dispatch(loginStart());
 
-  // Giả lập delay API call
   setTimeout(() => {
     if (email === ADMIN_ACCOUNT.email && password === ADMIN_ACCOUNT.password) {
       dispatch(
@@ -69,17 +74,32 @@ export const login = (email, password) => (dispatch) => {
           role: "admin",
         }),
       );
+      return;
+    }
+
+    const existingUsers = JSON.parse(localStorage.getItem("usersList")) || [];
+    const matchedUser = existingUsers.find(
+      (u) => u.email === email && u.password === password
+    );
+
+    if (matchedUser) {
+      dispatch(
+        loginSuccess({
+          fullName: matchedUser.fullName,
+          email: matchedUser.email,
+          phone: matchedUser.phone,
+          role: "user",
+        }),
+      );
     } else {
       dispatch(loginFail("Email hoặc mật khẩu không chính xác!"));
     }
   }, 500);
 };
 
-// Hàm giả lập async register
 export const register = (formData) => (dispatch) => {
   dispatch(registerStart());
 
-  // Validate
   if (!formData.fullName || !formData.email || !formData.password) {
     dispatch(registerFail("Vui lòng điền đầy đủ thông tin"));
     return;
@@ -95,9 +115,15 @@ export const register = (formData) => (dispatch) => {
     return;
   }
 
-  // Giả lập delay API call
   setTimeout(() => {
-    // Fake đăng ký thành công
+    const existingUsers = JSON.parse(localStorage.getItem("usersList")) || [];
+    const userExists = existingUsers.some((u) => u.email === formData.email);
+    if (userExists) {
+      dispatch(registerFail("Email đã được đăng ký!"));
+      return;
+    }
+    existingUsers.push(formData);
+    localStorage.setItem("usersList", JSON.stringify(existingUsers));
     dispatch(registerSuccess());
   }, 500);
 };
@@ -110,6 +136,7 @@ export const {
   loginSuccess,
   loginFail,
   logout,
+  updateUserProfile,
 } = authSlice.actions;
 
 export default authSlice.reducer;
