@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
+import { clearCart } from "../store/cartSlice";
 import { Button } from "../component/ui/button";
 import { FormInput } from "../component/ui/FormInput";
 import { formatPrice } from "../lib/formatPrice";
@@ -199,8 +200,7 @@ const CheckoutPage = () => {
       existingOrders.push(pendingOrder);
       localStorage.setItem("orders", JSON.stringify(existingOrders));
 
-      localStorage.removeItem("cart");
-      localStorage.removeItem("total");
+      dispatch(clearCart());
 
       setIsConfirmingPayment(false);
       setShowCardModal(false);

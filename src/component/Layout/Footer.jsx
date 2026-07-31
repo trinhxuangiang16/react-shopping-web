@@ -28,7 +28,7 @@ const Footer = () => {
       <Container className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8 pt-14 pb-10">
         <Row className="gy-8 pb-10">
           <Col lg={4} md={6} className="mb-6 md:mb-0">
-            <h2 className="text-xl font-black tracking-[0.15em] text-white mb-4">BOUTIQUE</h2>
+            <img src="/logo-white.svg" alt="BOUTIQUE Logo" className="h-8 mb-5" />
             <p className="text-xs text-slate-400 leading-relaxed max-w-xs mb-6">
               Authorized reseller of Apple technology devices & premium tech accessories. Guaranteed quality & dedicated warranty service.
             </p>

@@ -87,12 +87,12 @@ const NavBar = () => {
           </NavItem>
         </div>
         <NavItem>
-          <h2
+          <img
+            src="/logo.svg"
+            alt="BOUTIQUE Logo"
             onClick={handlerToHome}
-            className="text-[20px] font-extrabold tracking-[0.2em] text-slate-900 cursor-pointer hover:text-blue-600 transition-colors"
-          >
-            BOUTIQUE
-          </h2>
+            className="h-8 cursor-pointer hover:opacity-80 transition-opacity"
+          />
         </NavItem>
         <div className="flex items-center gap-2 sm:gap-3">
           <NavItem>
@@ -165,9 +165,7 @@ const NavBar = () => {
 export default NavBar;
 
 export async function loader() {
-  const response = await fetch(
-    "https://firebasestorage.googleapis.com/v0/b/funix-subtitle.appspot.com/o/Boutique_products.json?alt=media&token=dc67a5ea-e3e0-479e-9eaf-5e01bcd09c74",
-  );
+  const response = await fetch("/data_en.json");
 
   if (!response.ok) {
     throw json({ message: "Could not fetch product." }, { status: 500 });

@@ -1,0 +1,338 @@
+[
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6a"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 17 256GB",
+    "price": "26990000",
+    "short_desc": "The entirely new iPhone 17. Upgraded dual cameras, advanced AI features, and A19 chip.",
+    "long_desc": "iPhone 17. Step into the future with a radically new design. Super Retina XDR OLED display with ProMotion technology now available on the base model. Powered by the A19 Bionic chip for superior AI processing and unprecedented battery life. The advanced dual-camera system now supports Spatial Video recording for Apple Vision Pro. USB-C 3.0 support and completely redesigned cooling system.",
+    "img1": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-17-pro-max_3_1_1_1.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-1-202409?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-2-202409?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6b"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 17 Pro 256GB",
+    "price": "31990000",
+    "short_desc": "Pro-grade titanium design. A19 Pro chip. 48MP Triple camera array. True 120Hz.",
+    "long_desc": "iPhone 17 Pro. The ultimate professional tool. Forged from Aerospace-grade titanium, making it lighter and more durable than ever. Powered by the incredibly fast A19 Pro chip with a 6-core GPU, bringing console-level gaming to mobile. Features a completely overhauled 48MP triple-camera system with a new 5x Telephoto lens across the entire Pro lineup. Action button and USB-C with incredibly fast transfer speeds.",
+    "img1": "https://cdn.phuckhangmobile.com/image/iphone-17-pro-trang-2-33906j.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-2-202309?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6c"
+    },
+    "category": "airpods",
+    "name": "Apple AirPods Pro 2",
+    "price": "5890000",
+    "short_desc": "Up to 2x more Active Noise Cancellation. Adaptive Transparency. Personalized Spatial Audio.",
+    "long_desc": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB-C) deliver up to 2x more Active Noise Cancellation than the previous generation, with Adaptive Transparency that filters outside noise in real time. Personalized Spatial Audio with dynamic head tracking places sound all around you. Touch control lets you swipe to adjust volume. And a leap in power delivers 6 hours of battery life from a single charge.",
+    "img1": "https://bizweb.dktcdn.net/100/487/578/products/mqd83.jpg?v=1688814528807",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1660803972361",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1660803972361",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1660803972361"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6d"
+    },
+    "category": "airpods",
+    "name": "Apple AirPods 4",
+    "price": "3490000",
+    "short_desc": "Next-generation audio experience. Redesigned for all-day comfort. USB-C charging.",
+    "long_desc": "AirPods 4 offer an entirely new design optimized for all-day comfort, providing a secure fit and excellent sound quality. Powered by the H2 chip, delivering richer bass, clearer highs, and impressive battery life. The redesigned charging case now supports USB-C for universal compatibility. Enjoy seamless device switching and quick access to Siri.",
+    "img1": "https://cdn-media.sforum.vn/storage/app/media/trannghia/apple-airpods-4-dat-coc.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861334000",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861334000",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861334000"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6e"
+    },
+    "category": "watch",
+    "name": "Apple Watch SE 3 40mm",
+    "price": "6490000",
+    "short_desc": "Essential Apple Watch features. Fitness tracking, heart rate, and Crash Detection.",
+    "long_desc": "Apple Watch SE 3rd Generation provides all the essential features you love about Apple Watch at an incredible value. Track your workouts, monitor your heart rate, and stay connected directly from your wrist. Features advanced safety sensors for Fall Detection and Crash Detection. Swimproof design and a Retina display that's up to 20% larger than previous generations.",
+    "img1": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202509_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80&.v=Rmt2NDRBcDRCNVhOcFJTSzZLRU92WlVTRWk4UllCemZya05RQUd4OC9lSWJYRlBVV01kRkRDSmpvS0REeWlOTGpDd3Z3NTI0cUNBeVNMeUt0VjQyMW11Y0hhYzFCK0tzV3gwSFNTUHQzNHVjQUJVTXJpbENydG4rYTZPVEo3ZzY",
+    "img2": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-2-202509_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80",
+    "img3": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-3-202509_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80",
+    "img4": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-4-202509_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b6f"
+    },
+    "category": "watch",
+    "name": "Apple Watch Series 11 41mm",
+    "price": "9990000",
+    "short_desc": "The most advanced Apple Watch display. Next-gen health sensors and Sleep Apnea detection.",
+    "long_desc": "Apple Watch Series 11 represents a monumental leap in smartwatch technology. Featuring the largest, brightest Always-On Retina display ever created. Revolutionary new health sensors allow for accurate body temperature tracking and breakthrough Sleep Apnea detection. Powered by the ultra-fast S11 SiP, ensuring flawless performance. Features fast charging and a durable, crack-resistant front crystal.",
+    "img1": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-unselect-gallery-1-202509_GEO_VN_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80&.v=WldDSmZlQ1ladGVha0lMWUJJK2M4ZHlVRllKam5abHNZRGludXlMbytKNHJIb251TTNHZXFNNGtpZm1kN3hmRHdNcFdFNWZtdVQ0djE1UTRwRU5lcXlaSE1Qa0haZTFvMWVJTkxjaWwxSnlpeUlldENlcWUwU1RFbkFmYitxUFRwOU90TDlNMDBLdHFUaVVCQ0hiUGVR",
+    "img2": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-unselect-gallery-2-202509_GEO_VN_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80",
+    "img3": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-unselect-gallery-3-202509_GEO_VN_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80",
+    "img4": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-unselect-gallery-4-202509_GEO_VN_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7a"
+    },
+    "category": "watch",
+    "name": "Apple Watch Ultra 2 GPS + Cellular",
+    "price": "21990000",
+    "short_desc": "Rugged titanium case. Precision dual-frequency GPS. Up to 36 hours of battery life.",
+    "long_desc": "Apple Watch Ultra 2. The most rugged and capable Apple Watch pushes the limits again. Featuring the all-new S9 SiP, a magical new double tap gesture, and our brightest display ever at 3000 nits. The aerospace-grade titanium case balances weight, durability, and corrosion resistance. Precision dual-frequency GPS provides unparalleled accuracy. Designed for extreme environments, elevations, and temperatures.",
+    "img1": "https://bachlongstore.vn/vnt_upload/product/09_2024/5235523.png",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-case-unselect-gallery-2-202309?wid=5120&hei=3280&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-case-unselect-gallery-3-202309?wid=5120&hei=3280&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-case-unselect-gallery-4-202309?wid=5120&hei=3280&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7b"
+    },
+    "category": "macbook",
+    "name": "Apple MacBook Air M5 13-inch 2026",
+    "price": "27990000",
+    "short_desc": "Incredibly thin. Superfast M5 chip. 18-hour battery life. Liquid Retina display.",
+    "long_desc": "MacBook Air 13-inch 2026. Redesigned around the groundbreaking M5 chip, the new MacBook Air delivers blazing-fast performance and incredible 18-hour battery life in its strikingly thin aluminum enclosure. The brilliant 13.6-inch Liquid Retina display features 500 nits of brightness, P3 wide color, and True Tone technology. 1080p FaceTime HD camera, four-speaker sound system with Spatial Audio, and MagSafe charging. The perfect ultra-portable laptop for work and play.",
+    "img1": "https://img.youtube.com/vi/ZmQSna5xlE8/maxresdefault.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-gallery1-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1652822452395",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-gallery2-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1652822452814",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-gallery4-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1652822457813"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7c"
+    },
+    "category": "macbook",
+    "name": "Apple MacBook Pro 13-inch 2018",
+    "price": "14990000",
+    "short_desc": "Intel Core i5. Touch Bar and Touch ID. 8GB RAM. 256GB SSD storage.",
+    "long_desc": "MacBook Pro 13-inch (2018). Featuring a powerful quad-core Intel Core i5 processor, this reliable MacBook Pro is perfect for students and professionals. Equipped with the innovative Touch Bar and Touch ID for instant access to tools and secure authentication. The brilliant Retina display with True Tone technology makes images look more natural. Dual Thunderbolt 3 (USB-C) ports and a butterfly keyboard.",
+    "img1": "https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/mbp13-sp2018-final-86f8acb9-4346-44b3-97ca-e5b83065201c-08c1758e-cf83-4622-b485-190e5454b0d5-95f86156-3904-4a41-a3c3-9e7cf70babaf.jpg?v=1557200169390",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603406905000",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-gallery1-202011?wid=4000&hei=3072&fmt=jpeg&qlt=80&.v=1603406905000",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-gallery3-202011?wid=4000&hei=3072&fmt=jpeg&qlt=80&.v=1603406905000"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7d"
+    },
+    "category": "mouse",
+    "name": "Apple Magic Mouse 3",
+    "price": "1990000",
+    "short_desc": "Wireless and rechargeable. Multi-Touch surface. Optimized foot design.",
+    "long_desc": "Magic Mouse 3 is wireless and rechargeable, featuring an optimized foot design that lets it glide smoothly across your desk. The Multi-Touch surface allows you to perform simple gestures such as swiping between web pages and scrolling through documents. The incredibly long-lasting internal battery will power your Magic Mouse for about a month or more between charges.",
+    "img1": "https://apple.ngocnguyen.vn/cdn/images/202407/goods_img/new-100-chuot-apple-magic-mouse-3-G15336-1720165127579.png",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2E3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1626462669000",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2E3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1626462669000",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2E3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1626462669000"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7e"
+    },
+    "category": "mouse",
+    "name": "Apple Magic Mouse 2",
+    "price": "1490000",
+    "short_desc": "Rechargeable built-in battery. Multi-Touch support. Sleek, seamless design.",
+    "long_desc": "Magic Mouse 2 features a completely rechargeable battery, eliminating the need for traditional batteries. It’s lighter, has fewer moving parts thanks to its built-in battery and continuous bottom shell, and has an optimized foot design — all helping Magic Mouse 2 track easier and move with less resistance across your desk. Supports seamless Multi-Touch gestures.",
+    "img1": "https://maconline.vn/uploads/phu-kien/magic-mouse-2/magic-mouse-2-full-box-chinh-hang-new.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1564082260279",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1564082260279",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1564082260279"
+  },
+  {
+    "_id": {
+      "$oid": "72ccd4665eefc71539bb6b7f"
+    },
+    "category": "keyboard",
+    "name": "Apple Magic Keyboard USB-C Touch ID",
+    "price": "3890000",
+    "short_desc": "Integrated Touch ID. Numeric Keypad. USB-C port. Extended layout.",
+    "long_desc": "Magic Keyboard with Touch ID and Numeric Keypad delivers a remarkably comfortable and precise typing experience. It features an extended layout, with document navigation controls for quick scrolling and full-size arrow keys, which are great for gaming. The numeric keypad is also ideal for spreadsheets and finance applications. Integrated Touch ID provides fast, easy, and secure authentication for logins and purchases. Features the new universal USB-C charging port.",
+    "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/4547/332194/ban-phim-apple-magic-keyboard-usb-c-touch-id-mxck3-1-638677994444985100-750x500.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMR3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1645719947839",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMR3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1645719947839",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMR3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1645719947839"
+  },
+  {
+    "_id": {
+      "$oid": "62ccd4665eefc71539bb6b5a"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 13 128GB",
+    "price": "18990000",
+    "short_desc": "Super Retina XDR display. A15 Bionic chip. Advanced dual-camera system.",
+    "long_desc": "iPhone 13. Your new superpower. Super Retina XDR display. A15 Bionic chip for lightning-fast performance. Advanced dual-camera system with 12MP Wide and Ultra Wide cameras. Cinematic mode adds shallow depth of field and shifts focus automatically in your videos. Ceramic Shield, tougher than any smartphone glass.",
+    "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-13_2_2.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "62ccd4665eefc71539bb6b5b"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 14 Pro Max 256GB",
+    "price": "28990000",
+    "short_desc": "Dynamic Island. 48MP Main camera. Always-On display. A16 Bionic.",
+    "long_desc": "iPhone 14 Pro Max. Capture incredible detail with a 48MP Main camera. Experience iPhone in a whole new way with Dynamic Island and Always-On display. Crash Detection, a new safety feature, calls for help when you can’t. All powered by the ultimate smartphone chip, A16 Bionic.",
+    "img1": "https://i0.wp.com/gorillatechdr.com.do/wp-content/uploads/2025/04/14-Pro-Max.jpg?fit=1000%2C1000&ssl=1",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "62ccd4665eefc71539bb6b5c"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 15 Pro Max 256GB",
+    "price": "34990000",
+    "short_desc": "Forged in titanium. A17 Pro chip. Action button. 5x Optical zoom.",
+    "long_desc": "iPhone 15 Pro Max. Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever with a 5x Telephoto camera. USB-C with USB 3 speeds.",
+    "img1": "https://admin.hoanghamobile.com/Uploads/2023/09/14/vn-iphone-15-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-2-202309?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "62ccd4665eefc71539bb6b5d"
+    },
+    "category": "iphone",
+    "name": "Apple iPhone 16 128GB",
+    "price": "24990000",
+    "short_desc": "The newest standard. A18 chip. Spatial Audio. Next-generation features.",
+    "long_desc": "iPhone 16. The future is here with the newest A18 chip, stunning OLED display, advanced camera system for Spatial Audio, and unparalleled battery efficiency. Introducing a vibrant new design that stands out.",
+    "img1": "https://buyfastgadgets.ng/wp-content/uploads/2024/11/iPhone-16.jpg",
+    "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-1-202409?wid=5120&hei=2880&fmt=p-jpg",
+    "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-2-202409?wid=5120&hei=2880&fmt=p-jpg",
+    "img4": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=5120&hei=2880&fmt=p-jpg"
+  },
+  {
+    "_id": {
+      "$oid": "62ccd4665eefc71539bb6b4c"
+    },
+    "category": "iphone",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_13_4.jpeg?alt=media&token=dc72dde3-cfa4-4710-9493-ac2aa0ecf249",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_13_3.jpeg?alt=media&token=b3417ab8-33b9-4b52-a980-8f9afe4e0896",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_13_2.jpeg?alt=media&token=74aac3de-0c55-490e-9601-30829de7879f",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_13_4.jpeg?alt=media&token=dc72dde3-cfa4-4710-9493-ac2aa0ecf249",
+    "long_desc": "iPhone 13 Pro Max. A revolutionary camera system upgrade. A display so responsive, every interaction feels magical. The world's fastest smartphone chip. Exceptional durability. And a huge leap in battery life. \n\nSuper Retina XDR display with ProMotion\n6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel. Cinematic mode adds shallow depth of field and shifts focus automatically in your videos. Pro camera system with new 12MP Telephoto, Wide, and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording. A15 Bionic chip for lightning-fast performance. Up to 28 hours of video playback, the best battery life ever in an iPhone. Ceramic Shield, tougher than any smartphone glass. Industry-leading IP68 water resistance. 5G for superfast downloads and high-quality streaming.",
+    "name": "Apple iPhone 13 Pro Max - Alpine Green",
+    "price": "29390000",
+    "short_desc": "iPhone 13 Pro Max. A revolutionary camera system upgrade. A display so responsive, every interaction feels magical."
+  },
+  {
+    "_id": {
+      "$oid": "62ccd5755eefc71539bb6b4e"
+    },
+    "category": "iphone",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_11_2.jpeg?alt=media&token=2e8b6c8e-56fa-4cfd-86c4-9be2ee6205e0",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_11_3.jpeg?alt=media&token=84af09ee-ef66-4227-94ef-bcd60c105b74",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_11_4.jpeg?alt=media&token=3008fd7b-7c54-460f-bd4e-afd0ba39f57c",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_11_1.jpeg?alt=media&token=fa286155-0c22-4533-b55a-cc8adc2ad08c",
+    "long_desc": "Shoot 4K videos, beautiful portraits, and sweeping landscapes with the all-new dual-camera system. Capture your best low-light photos with Night mode. See true-to-life color in your photos, videos, and games on the 6.1-inch Liquid Retina display. Experience unprecedented performance with A13 Bionic for gaming, augmented reality (AR), and photography. Do more and charge less with all-day battery life. And worry less with water resistance up to 2 meters for 30 minutes.\n\n6.1-inch Liquid Retina HD LCD display. Water and dust resistant (2 meters for up to 30 minutes, IP68). Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Portrait mode, and 4K video up to 60fps. 12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo. Face ID for secure authentication and Apple Pay. A13 Bionic chip with third-generation Neural Engine. Fast-charge capable. Wireless charging.",
+    "name": "Apple iPhone 11 64GB",
+    "price": "10999000",
+    "short_desc": "Shoot 4K videos, beautiful portraits, and sweeping landscapes with the all-new dual-camera system."
+  },
+  {
+    "_id": {
+      "$oid": "62ccd6d75eefc71539bb6b50"
+    },
+    "category": "iphone",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_12_3.jpeg?alt=media&token=56832bd5-c510-4760-923c-fae236c6712c",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_12_2.jpeg?alt=media&token=56f78317-be84-4f2e-a050-6a35f8cba356",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_12_1.jpeg?alt=media&token=6acaeb5d-1299-4bde-9e60-bee43b49570e",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fiphone_12_4.jpeg?alt=media&token=490d736a-05bd-4242-baf6-8479d9c0d11c",
+    "long_desc": "iPhone 12 accelerates everything with A14 Bionic, the fastest chip in a smartphone. A new dual-camera system. And a beautiful Super Retina XDR display so you can see everything in stunning detail.\n\n6.1-inch Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass. 5G for superfast downloads and high-quality streaming. A14 Bionic chip, the fastest chip ever in a smartphone. Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording. Industry-leading IP68 water resistance. Supports MagSafe accessories for easy attachment and faster wireless charging. iOS 14 with redesigned widgets on the Home Screen, all-new App Library, App Clips, and more.",
+    "name": "Apple iPhone 12 64GB",
+    "price": "15790000",
+    "short_desc": "iPhone 12 accelerates everything with A14 Bionic, the fastest chip in a smartphone."
+  },
+  {
+    "_id": {
+      "$oid": "62ccd8b55eefc71539bb6b52"
+    },
+    "category": "ipad",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_gen9_1.jpeg?alt=media&token=507fbf42-b8db-4007-b294-397b95cce7ba",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_gen9_2.jpeg?alt=media&token=2be93dfc-b78a-4798-8dbf-316405853a6b",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_gen9_3.jpeg?alt=media&token=6edb581f-6727-4501-9bce-d7f4b806007b",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_gen9_4.jpeg?alt=media&token=eb62cfc6-f091-46f7-b793-5018bc02d711",
+    "long_desc": "Powerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display, powerful A13 Bionic chip, an Ultra Wide front camera with Center Stage, and works with Apple Pencil and the Smart Keyboard. iPad lets you do more, more easily. All for an incredible price.\n\nGorgeous 10.2-inch Retina display with True Tone. A13 Bionic chip with Neural Engine. 8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage. Up to 256GB storage. Stereo speakers. Touch ID for secure authentication and Apple Pay. 802.11ac Wi-Fi. Up to 10 hours of battery life. Lightning connector for charging and accessories. Works with Apple Pencil (1st generation) and Smart Keyboard.",
+    "name": "Apple iPad Gen 9th Wi-Fi 64GB",
+    "price": "8990000",
+    "short_desc": "Powerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display."
+  },
+  {
+    "_id": {
+      "$oid": "62ccd9eb5eefc71539bb6b54"
+    },
+    "category": "ipad",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_air_1.jpeg?alt=media&token=79be0859-23b8-4915-8f92-4bf087ab3186",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_air_2.jpeg?alt=media&token=e58dc089-ce13-4415-80bd-1b40383591e5",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_air_3.jpeg?alt=media&token=e6070fc1-f33d-4b2d-a979-71c756978ebf",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fipad_air_4.jpeg?alt=media&token=92368c98-a863-40c4-9b25-c628e8321e0a",
+    "long_desc": "The all-new iPad Air. More versatile than ever. The stunning 10.9-inch Liquid Retina display with wide color lets you see photos, videos, and games in vivid, true-to-life detail. It features the A14 Bionic chip with Neural Engine, delivering power and advanced machine learning capabilities to edit 4K video, create beautiful presentations, design 3D models, and do it all with ease. And now with support for Magic Keyboard and Apple Pencil (2nd generation), fast, easy, and secure Touch ID and Apple Pay, a 12MP back camera and 7MP FaceTime HD camera, USB-C connector for charging and accessories, all-day battery life, and fast Wi-Fi 6. With iPad Air, you have the power to bring your ideas to life.\n\nStunning 10.9-inch Liquid Retina display with True Tone and P3 wide color. A14 Bionic chip with Neural Engine. Touch ID for secure authentication and Apple Pay. 12MP back camera, 7MP FaceTime HD front camera. Available in Silver, Space Gray, Rose Gold, Green, and Sky Blue. Wide stereo audio. Wi-Fi 6 (802.11ax). Up to 10 hours of battery life. USB-C connector for charging and accessories. Works with Magic Keyboard, Smart Keyboard Folio, and Apple Pencil (2nd generation).",
+    "name": "Apple iPad Air 4 10.9 inch Wi-Fi + Cellular 64GB",
+    "price": "15990000",
+    "short_desc": "The all-new iPad Air. More versatile than ever. The stunning 10.9-inch Liquid Retina display with wide color lets you see photos, videos, and games in vivid, true-to-life detail."
+  },
+  {
+    "_id": {
+      "$oid": "62ccdb045eefc71539bb6b56"
+    },
+    "category": "watch",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_1_4.jpeg?alt=media&token=c5642ff3-ec27-4af1-bca2-87a5606f9fee",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_1_3.jpeg?alt=media&token=b73a1072-0246-44c9-b694-6686683fe845",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_1_2.jpeg?alt=media&token=0eda1185-e2f6-4afc-bad3-4403fc406bfe",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_1_1.jpeg?alt=media&token=9d77761d-9008-4002-bdd3-4cfafcde735f",
+    "long_desc": "Apple Watch Series 6 can notify you if your heart rate is too high or too low, or if it detects an irregular heart rhythm. It also measures your blood oxygen level with a revolutionary new sensor and app. Track your daily activity and accurately record all your favorite workouts. See it all clearly on the Always-On Retina display. And with the cellular model, you can leave your phone behind.\n\nMeasure your blood oxygen with an all-new sensor and app. Check your heart rhythm with the ECG app. The Always-On Retina display is 2.5x brighter outdoors when your wrist is down. The S6 SiP is up to 20% faster than Series 5. 5GHz Wi-Fi and U1 Ultra Wideband chip. Track your daily activity on Apple Watch and see your trends in the Fitness app on iPhone. Measure workouts like running, walking, cycling, yoga, swimming, and dance. Swimproof design. Sync your favorite music, podcasts, and audiobooks.",
+    "name": "Apple Watch Series 6 40mm GPS Sport Band",
+    "price": "9090000",
+    "short_desc": "Apple Watch Series 6 can notify you if your heart rate is too high or too low, or if it detects an irregular heart rhythm."
+  },
+  {
+    "_id": {
+      "$oid": "62ccdbb05eefc71539bb6b58"
+    },
+    "category": "watch",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_2_1.jpeg?alt=media&token=6585e4e6-801a-4b15-9dee-692523cc25f0",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_2_2.jpeg?alt=media&token=36a9ed1c-364d-4ef8-8c2f-9a59749ab057",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_2_4.jpeg?alt=media&token=680502bd-d359-4095-8b37-841e9fd35a2d",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fwatch_2_3.jpeg?alt=media&token=223685d5-5fe6-47e4-8ba1-1c6a485c7730",
+    "long_desc": "A flawless experience on a large edge-to-edge display.\nApple Watch Series 7 features the largest, most advanced display yet, completely re-engineered to reduce the borders by 40%, allowing for nearly 20% more screen area than Series 6 and over 50% more than Series 3. The Always-On Retina display is brighter indoors when your wrist is down, making it easier to read the watch face and complications. \n\nThe most durable Apple Watch ever built.\nThe front crystal is 50% thicker and completely redesigned with a robust geometry to make it more crack-resistant. It's also IP6X dust resistant and WR50 water resistant for swimming in the pool or ocean.\n\nAdvanced health features.\nMeasure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere. Receive notifications for high, low, and irregular heart rhythms. Track your sleep to help establish a regular bedtime routine and meet your sleep goals.\n\nFast charging.\nThe entire charging system for Apple Watch Series 7 has been rethought to get you up and running faster than ever. With an updated charging architecture and fast-charging USB-C cable, it charges from 0 to 80% in about 45 minutes.",
+    "name": "Apple Watch Series 7 41mm GPS Sport Band",
+    "price": "10590000",
+    "short_desc": "A flawless experience on a large edge-to-edge display. The most durable Apple Watch ever."
+  },
+  {
+    "_id": {
+      "$oid": "62ccdcc95eefc71539bb6b59"
+    },
+    "category": "airpod",
+    "img1": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fairpod_1_1.jpeg?alt=media&token=33b2ebdd-086c-4b8e-9241-0b566ca66754",
+    "img2": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fairpod_1_2.jpeg?alt=media&token=b6201728-3058-489e-aa49-df59c4255833",
+    "img3": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fairpod_1_4.jpeg?alt=media&token=cb5d7f1f-03a2-409a-8ee9-1783b37e6b56",
+    "img4": "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FReactJS%2FAssignment_Images%2FASM03_Resources%2Fairpod_1_3.jpeg?alt=media&token=3c036bd6-b76a-48a7-8cd2-a58290cd1763",
+    "long_desc": "Premium design with significant changes compared to previous generations. The stem is shorter and angled for a contoured fit. Spatial audio with dynamic head tracking places sound all around you to create a three-dimensional listening experience for music, TV shows, and movies. Adaptive EQ automatically tunes music to your ears. Force sensor lets you easily control your entertainment, answer or end calls, and more. \n\nSweat and water resistant for both the AirPods and the charging case. Up to 6 hours of listening time on one charge. MagSafe Charging Case delivers more than 30 hours of total listening time and supports wireless charging. Quick access to Siri by saying 'Hey Siri'. Effortless setup, in-ear detection, and automatic switching for a magical experience. Easily share audio between two sets of AirPods on your iPhone, iPad, iPod touch, or Apple TV.",
+    "name": "Apple AirPods 3rd gen",
+    "price": "4390000",
+    "short_desc": "Premium design with significant changes compared to previous generations. Spatial audio places sound all around you."
+  }
+]

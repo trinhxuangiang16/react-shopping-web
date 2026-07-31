@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="100%" height="100%">
+  <!-- BOUTIQUE Logo drawn with precise SVG strokes to match the image -->
+  <g fill="none" stroke="#0f172a" stroke-width="12" stroke-linecap="butt" stroke-linejoin="miter">
+    <!-- B -->
+    <path d="M 15,15 L 15,85" />
+    <path d="M 15,15 L 35,15 C 50,15 50,47 35,47 L 15,47" />
+    <path d="M 15,47 L 37,47 C 55,47 55,85 37,85 L 15,85" />
+    
+    <!-- O -->
+    <rect x="68" y="15" width="30" height="70" rx="4" />
+    
+    <!-- U -->
+    <path d="M 125,15 L 125,72 C 125,85 155,85 155,72 L 155,15" />
+    
+    <!-- T -->
+    <path d="M 175,15 L 210,15" />
+    <path d="M 192.5,15 L 192.5,85" />
+    
+    <!-- I -->
+    <path d="M 230,15 L 230,85" />
+    
+    <!-- Q -->
+    <rect x="255" y="15" width="30" height="70" rx="4" />
+    <path d="M 275,65 L 295,88" stroke-linecap="square" />
+    
+    <!-- U -->
+    <path d="M 315,15 L 315,72 C 315,85 345,85 345,72 L 345,15" />
+    
+    <!-- E -->
+    <path d="M 395,15 L 365,15 L 365,85 L 395,85" />
+    <path d="M 365,50 L 388,50" />
+  </g>
+</svg>

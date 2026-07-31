@@ -5,6 +5,7 @@ const ADMIN_ACCOUNT = {
   email: "admin@boutique.com",
   password: "admin@123",
   phone: "0123456789",
+  role: "admin",
 };
 
 const initialState = {
@@ -92,7 +93,7 @@ export const login = (email, password) => (dispatch) => {
         }),
       );
     } else {
-      dispatch(loginFail("Email hoặc mật khẩu không chính xác!"));
+      dispatch(loginFail("Incorrect email address or password!"));
     }
   }, 500);
 };
@@ -101,17 +102,17 @@ export const register = (formData) => (dispatch) => {
   dispatch(registerStart());
 
   if (!formData.fullName || !formData.email || !formData.password) {
-    dispatch(registerFail("Vui lòng điền đầy đủ thông tin"));
+    dispatch(registerFail("Please fill out all required fields."));
     return;
   }
 
   if (formData.password.length < 8) {
-    dispatch(registerFail("Mật khẩu phải ít nhất 8 ký tự"));
+    dispatch(registerFail("Password must be at least 8 characters long."));
     return;
   }
 
   if (!formData.email.includes("@")) {
-    dispatch(registerFail("Email không hợp lệ"));
+    dispatch(registerFail("Invalid email address."));
     return;
   }
 
@@ -119,10 +120,11 @@ export const register = (formData) => (dispatch) => {
     const existingUsers = JSON.parse(localStorage.getItem("usersList")) || [];
     const userExists = existingUsers.some((u) => u.email === formData.email);
     if (userExists) {
-      dispatch(registerFail("Email đã được đăng ký!"));
+      dispatch(registerFail("This email address is already registered!"));
       return;
     }
-    existingUsers.push(formData);
+    const newUser = { ...formData, role: "user" };
+    existingUsers.push(newUser);
     localStorage.setItem("usersList", JSON.stringify(existingUsers));
     dispatch(registerSuccess());
   }, 500);
